@@ -1,0 +1,112 @@
+git commit --amend --reset-author --date="2021-06-18T11:54:13IST" --no-edit
+
+
+
+
+
+  1 exec git commit  1 exec git commit --amend --reset-author --date="2021-06-18T11:54:13IST" --no-edit 2b8087d set up a git repo.
+  1 exec git commit --amend --reset-author --date="2021-06-18T11:54:13IST" --no-edit 2b8087d set up a git repo.
+  2 exec git commit --amend --reset-author --date="2021-06-18T11:54:13IST" --no-edit dabb184 Add Schemas for user, feedback, history, order and created
+    their models.
+  3 exec git commit --amend --reset-author --date="2021-06-19T11:54:13IST" --no-edit f797b72 Add logic for authentication.
+  4 exec git commit --amend --reset-author --date="2021-07-04T11:54:13IST" --no-edit 5eb4271 Created client frontend
+  5 exec git commit --amend --reset-author --date="2021-07-04T11:54:13IST" --no-edit 559e5b9 added frontend
+  6 exec git commit --amend --reset-author --date="2021-07-12T11:54:13IST" --no-edit 9e9e966 Added bootstrap, GST
+  7 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit 2b27658 finish up.
+  8 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit 8c7dd81 added nodemon
+  9 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit c235b17 build on heroku
+ 10 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit f18b7bc added mongodb support for heroku
+ 11 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit fba91f3 added config.json
+ 12 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit b3c4fae corrected invalid host header
+ 13 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit 0710ee8 try1
+ 14 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit 98fb765 removed nodemon
+ 15 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit abc7097 added catch all to connect react
+ 16 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit dec2dcd configured express to serve static files from react
+ 17 exec git commit --amend --reset-author --date="2021-07-21T11:54:13IST" --no-edit 59faa1f added readme and created scripts to run on windows
+ 18 exec git commit --amend --reset-author --date="2021-07-22T11:54:13IST" --no-edit f77cc7a Added removal of unverified users and new status fields and     dropdown menu
+ 19 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit 7fe2524 save
+ 20 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit b786523 Try1
+ 21 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit be4d07d Hello
+ 22 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit ea0a838 cloud mail
+ 23 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit 9c178d9 email working
+ 24 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit f2b7efd prod
+ 25 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit 5217a62 email working
+ 26 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit 398e47d corrected upload csv
+ 27 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit e5c5ae1 Radme.md
+ 28 exec git commit --amend --reset-author --date="2021-07-25T11:54:13IST" --no-edit 3ce78ad Hey its ready
+ 29 exec git commit --amend --reset-author --date="2021-07-26T11:54:13IST" --no-edit b952a80 Added load testing and corrected comments
+ 30
+ 31 # Rebase b952a80 onto cf6f846 (29 commands)
+ 32 #
+ 33 # Commands:
+ 34 # p, pick <commit> = use commit
+ 35 # r, reword <commit> = use commit, but edit the commit message
+ 36 # e, edit <commit> = use commit, but stop for amending
+ 37 # s, squash <commit> = use commit, but meld into previous commit
+ 38 # f, fixup <commit> = like "squash", but discard this commit's log message
+ 39 # x, exec <command> = run command (the rest of the line) using shell
+ 40 # b, break = stop here (continue rebase later with 'git rebase --continue')
+ 41 # d, drop <commit> = remove commit
+ 42 # l, label <label> = label current HEAD with a name
+ 43 # t, reset <label> = reset HEAD to a label
+ 44 # m, merge [-C <commit> | -c <commit>] <label> [# <oneline>]
+ 45 # .       create a merge commit using the original merge commit's
+ 46 # .       message (or the oneline, if 00a0e6b5e0fec5
+ 47 #
+~                                                              
+
+
+
+c768650ec7a6dedf82be20a0e378f6e99a4d86f5 finish up
+
+
+commit 416128e1f28c16a9392fb4c5d97ccb348ca7d37a (HEAD)
+Author: Pushpendra Upadhyay <pushpendra1603@gmail.com>
+Date:   Wed Jul 21 17:42:25 2021 +0530
+
+    added readme and created scripts to run on windows
+
+
+
+
+~
+
+
+
+
+
+commit 432916b3c427dc14d77799d0aba70db6febb16d9 (HEAD)
+Author: Pushpendra Upadhyay <pushpendra1603@gmail.com>
+Date:   Thu Jul 22 17:54:16 2021 +0530
+
+    Added removal of unverified users and new status fields and dropdown menu
+
+                                                               
+
+
+
+ $Env:GIT_COMMITTER_DATE="Wed Feb 16 14:00 2011 +0100"; git commit --amend --no-edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+272d02a HEAD@{1}: commit (amend): Created client frontend                                                                                        ~                                                                                                                                                       ~                                                                                                                                                       ~                                                                                                                                            
